@@ -19,3 +19,4 @@ export function createNewAlbum(req, res) {
     // .then(doc => res.status(201).send({ success: true, message: 'Album created: ' + doc.id }))
     .catch(err => res.status(500).send({ success: false, message: err }))
 }
+

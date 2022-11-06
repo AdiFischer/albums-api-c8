@@ -1,0 +1,1 @@
+export default "mongodb+srv://bocacode:Idaelzo7@bocacode.uczbzln.mongodb.net/?retryWrites=true&w=majority"
